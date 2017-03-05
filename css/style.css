@@ -39,3 +39,36 @@ img.demo{
   padding:3px;
   border:1px solid #acc;
 }
+
+section#feature{
+  background:#1caa98;
+  color:#fff;
+  padding:40px;
+  overflow:auto;
+}
+
+section#feature ul li{
+    fondt-size:22px;
+    list-style:none;
+    line-height:2.0em;
+}
+
+footer{
+  background:#333;
+  color:#fff;
+  padding:30px 0 20px 0;
+}
+
+footer li{
+  float:left;
+  padding:0 10px 0 10px;
+  list-style:none;
+}
+
+footer a{
+  color:#fff;
+}
+
+footer p{
+  float:right;
+}
