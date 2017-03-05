@@ -48,9 +48,21 @@ section#feature{
 }
 
 section#feature ul li{
-    fondt-size:22px;
+    font-size:22px;
     list-style:none;
     line-height:2.0em;
+}
+
+section#title-bar{
+  padding:0px;
+  margin:0px;
+  height:80px;
+  background:#1caa98;
+  color:#fff;
+}
+
+section#title-bar h1{
+  margin-bottom:20px;
 }
 
 footer{
