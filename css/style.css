@@ -144,4 +144,10 @@ footer p{
   section#feature ul li{
       font-size:19px;
   }
+
+  footer p{
+    float:none;
+    text-align:center;
+    padding-top:20px;
+  }
 }
